@@ -4,7 +4,7 @@ A broadcast-style cricket analytics web app that combines **live data from the C
 with **every international match since 2001** (Cricsheet ball-by-ball data) in a SQL database,
 and layers SQL analytics, machine learning and optimisation on top.
 
-**🔗 Live demo:** [_add your Streamlit Cloud link here_](https://cricbuzz-livestats-ankit.streamlit.app/)
+**🔗 Live demo:** [DEMO](https://cricbuzz-livestats-ankit.streamlit.app/)
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-app-FF4B4B)
 ![SQLite](https://img.shields.io/badge/SQL-SQLite-003B57) ![scikit-learn](https://img.shields.io/badge/ML-scikit--learn-F7931E)
