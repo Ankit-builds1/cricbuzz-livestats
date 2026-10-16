@@ -1,0 +1,13 @@
+# secrets & local env
+.env
+.streamlit/secrets.toml
+venv/
+__pycache__/
+*.pyc
+
+# large / regenerable data (re-create with: python import_cricsheet.py)
+data/raw/
+*.db-journal
+
+# scratch
+_to_delete/

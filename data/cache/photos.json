@@ -1,0 +1,48 @@
+{
+ "Mitchell Marsh": {
+  "img": null,
+  "desc": "Australian cricketer (born 1991)",
+  "url": "https://en.wikipedia.org/wiki/Mitchell_Marsh"
+ },
+ "Tim David": {
+  "img": null,
+  "desc": "Australian cricketer (born 1996)",
+  "url": "https://en.wikipedia.org/wiki/Tim_David"
+ },
+ "MJ Owen": null,
+ "Ben Dwarshuis": {
+  "img": null,
+  "desc": "Australian cricketer (born 1994)",
+  "url": "https://en.wikipedia.org/wiki/Ben_Dwarshuis"
+ },
+ "Rinku Singh": {
+  "img": null,
+  "desc": "Indian cricketer (born 1997)",
+  "url": "https://en.wikipedia.org/wiki/Rinku_Singh_(cricketer)"
+ },
+ "Virat Kohli": {
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Virat_Kohli_during_the_India_vs_Aus_4th_Test_match_at_Narendra_Modi_Stadium_on_09_March_2023.jpg/330px-Virat_Kohli_during_the_India_vs_Aus_4th_Test_match_at_Narendra_Modi_Stadium_on_09_March_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "desc": "Indian cricketer (born 1988)",
+  "url": "https://en.wikipedia.org/wiki/Virat_Kohli"
+ },
+ "Joe Root": {
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/2_05_Root_hundred.jpg/330px-2_05_Root_hundred.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "desc": "English cricketer (born 1990)",
+  "url": "https://en.wikipedia.org/wiki/Joe_Root"
+ },
+ "Rohit Sharma": {
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi_with_Shri_Rohit_Gurunath_Sharma_%28Cropped%29.jpg/330px-Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi_with_Shri_Rohit_Gurunath_Sharma_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "desc": "Indian cricketer (born 1987)",
+  "url": "https://en.wikipedia.org/wiki/Rohit_Sharma"
+ },
+ "Abhishek Sharma": {
+  "img": null,
+  "desc": "Indian cricketer (born 2000)",
+  "url": "https://en.wikipedia.org/wiki/Abhishek_Sharma"
+ },
+ "Tilak Varma": {
+  "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Tilak_Varma_in_March_2026.png/330px-Tilak_Varma_in_March_2026.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "desc": "Indian cricketer (born 2002)",
+  "url": "https://en.wikipedia.org/wiki/Tilak_Varma"
+ }
+}
