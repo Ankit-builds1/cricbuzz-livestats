@@ -1,3 +1,4 @@
+# © 2026 Ankit Dash (github.com/Ankit-builds1) - Cricbuzz LiveStats. All rights reserved.
 """Fantasy XI engine: expected points per player + optimal team selection.
 
 Points (Dream11-style, simplified):

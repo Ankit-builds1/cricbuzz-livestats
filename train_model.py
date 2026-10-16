@@ -1,3 +1,4 @@
+# © 2026 Ankit Dash (github.com/Ankit-builds1) - Cricbuzz LiveStats. All rights reserved.
 """Train the match win predictor and save it to models/win_model.pkl."""
 import joblib
 from sklearn.ensemble import GradientBoostingClassifier

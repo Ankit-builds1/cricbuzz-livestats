@@ -1,0 +1,25 @@
+Copyright (c) 2026 Ankit Dash (github.com/Ankit-builds1). All rights reserved.
+
+This repository and all of its contents - source code, database schema, SQL
+queries, machine-learning models, design system and documentation - are the
+original work of Ankit Dash and are made visible for PORTFOLIO AND EVALUATION
+PURPOSES ONLY.
+
+You MAY:
+  - view the code and run the application locally to evaluate it
+    (e.g. recruiters, reviewers, internship mentors).
+
+You may NOT, without prior written permission from the author:
+  - copy, modify, merge, publish, distribute, sublicense or sell any part of it;
+  - submit it, or any derivative of it, as your own project, assignment,
+    internship deliverable or portfolio piece;
+  - re-host it or deploy it publicly.
+
+Third-party data and assets remain under their own terms:
+  - Cricsheet data (cricsheet.org) - see cricsheet.org for licence terms
+  - Cricbuzz Cricket API data - subject to RapidAPI / Cricbuzz terms
+  - Player photos - Wikimedia Commons, under each image's own licence
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+Permission requests: open an issue on the repository or contact the author via GitHub.

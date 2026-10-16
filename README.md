@@ -122,4 +122,8 @@ standard deviation, form & career-phase classification. All answers in [`sql/que
 - **[Cricsheet](https://cricsheet.org)** — open ball-by-ball data for international cricket
 - **Wikipedia / Wikimedia Commons** — openly licensed player photos
 
-Built by **Ankit Dash** · Labmentix internship project
+## ⚖️ Licence & authorship
+
+© 2026 **Ankit Dash** ([@Ankit-builds1](https://github.com/Ankit-builds1)). **All rights reserved.**
+This code is shared for portfolio and evaluation purposes only — copying, re-hosting or submitting
+it as your own work is not permitted. See [LICENSE](LICENSE).

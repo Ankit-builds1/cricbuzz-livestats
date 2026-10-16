@@ -1,3 +1,4 @@
+# © 2026 Ankit Dash (github.com/Ankit-builds1) - Cricbuzz LiveStats. All rights reserved.
 """CRUD Operations: create, read, update and delete players."""
 import streamlit as st
 

@@ -1,3 +1,4 @@
+# © 2026 Ankit Dash (github.com/Ankit-builds1) - Cricbuzz LiveStats. All rights reserved.
 """Win Predictor: ML model estimates each team's chance of winning."""
 from datetime import date
 from pathlib import Path

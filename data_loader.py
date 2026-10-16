@@ -1,3 +1,4 @@
+# © 2026 Ankit Dash (github.com/Ankit-builds1) - Cricbuzz LiveStats. All rights reserved.
 """ETL: pull matches from the Cricbuzz API and load them into the database."""
 import re
 from datetime import datetime, timezone

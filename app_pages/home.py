@@ -1,3 +1,4 @@
+# © 2026 Ankit Dash (github.com/Ankit-builds1) - Cricbuzz LiveStats. All rights reserved.
 """Home / landing page."""
 import plotly.graph_objects as go
 import streamlit as st
@@ -90,3 +91,6 @@ with right:
 
 st.caption("Data: Cricbuzz Cricket API (RapidAPI) · Cricsheet (cricsheet.org) · Photos: Wikimedia Commons. "
            "100% real data, no synthetic records.")
+st.markdown('<div style="text-align:center;color:#64748B;font-size:.82rem;margin-top:18px">'
+            '© 2026 <b>Ankit Dash</b> · <a href="https://github.com/Ankit-builds1" target="_blank">'
+            'github.com/Ankit-builds1</a> · All rights reserved</div>', unsafe_allow_html=True)

@@ -1,3 +1,4 @@
+# © 2026 Ankit Dash (github.com/Ankit-builds1) - Cricbuzz LiveStats. All rights reserved.
 """Top Player Stats: ICC rankings (API) + career leaders (database)."""
 import pandas as pd
 import streamlit as st

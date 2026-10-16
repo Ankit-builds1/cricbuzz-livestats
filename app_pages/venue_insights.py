@@ -1,3 +1,4 @@
+# © 2026 Ankit Dash (github.com/Ankit-builds1) - Cricbuzz LiveStats. All rights reserved.
 """Venue Insights: how a ground plays - scores, chasing, toss, top performers."""
 import pandas as pd
 import plotly.graph_objects as go

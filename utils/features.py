@@ -1,3 +1,4 @@
+# © 2026 Ankit Dash (github.com/Ankit-builds1) - Cricbuzz LiveStats. All rights reserved.
 """Feature engineering for the match win predictor.
 
 Every feature is computed only from matches BEFORE the match date,

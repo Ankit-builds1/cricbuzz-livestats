@@ -1,3 +1,4 @@
+# © 2026 Ankit Dash (github.com/Ankit-builds1) - Cricbuzz LiveStats. All rights reserved.
 """The 25 SQL practice questions for the Cricbuzz LiveStats analytics page.
 
 Each entry: (level, question text, SQL). Written for SQLite; the STDDEV

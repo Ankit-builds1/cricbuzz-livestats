@@ -1,3 +1,4 @@
+# © 2026 Ankit Dash (github.com/Ankit-builds1) - Cricbuzz LiveStats. All rights reserved.
 """Import REAL international match history from Cricsheet (cricsheet.org).
 
 Cricsheet publishes free ball-by-ball data for every international match

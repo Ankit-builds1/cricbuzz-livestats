@@ -1,3 +1,4 @@
+# © 2026 Ankit Dash (github.com/Ankit-builds1) - Cricbuzz LiveStats. All rights reserved.
 """Live Matches page: current matches + scorecards from the Cricbuzz API."""
 import pandas as pd
 import streamlit as st

@@ -1,3 +1,4 @@
+# © 2026 Ankit Dash (github.com/Ankit-builds1) - Cricbuzz LiveStats. All rights reserved.
 """Player photos from Wikipedia / Wikimedia Commons (openly licensed images).
 
 Looks up the player's Wikipedia page and returns its lead image, a one-line

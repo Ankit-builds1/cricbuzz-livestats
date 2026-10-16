@@ -1,3 +1,4 @@
+# © 2026 Ankit Dash (github.com/Ankit-builds1) - Cricbuzz LiveStats. All rights reserved.
 """SQL Analytics: run the 25 practice queries or a custom SELECT."""
 import streamlit as st
 

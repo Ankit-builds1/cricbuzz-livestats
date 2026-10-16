@@ -1,3 +1,4 @@
+# © 2026 Ankit Dash (github.com/Ankit-builds1) - Cricbuzz LiveStats. All rights reserved.
 """Thin wrapper around the Cricbuzz RapidAPI with retries and a local JSON cache."""
 import json
 import os

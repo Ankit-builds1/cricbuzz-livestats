@@ -1,3 +1,4 @@
+# © 2026 Ankit Dash (github.com/Ankit-builds1) - Cricbuzz LiveStats. All rights reserved.
 """Player Comparison: a professional head-to-head analytics dashboard."""
 import numpy as np
 import pandas as pd

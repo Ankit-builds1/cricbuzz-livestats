@@ -1,3 +1,4 @@
+# © 2026 Ankit Dash (github.com/Ankit-builds1) - Cricbuzz LiveStats. All rights reserved.
 """Broadcast-style design system shared by every page.
 
 - render_chrome(): global CSS, sidebar logo and the scrolling results ticker

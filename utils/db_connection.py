@@ -1,3 +1,4 @@
+# © 2026 Ankit Dash (github.com/Ankit-builds1) - Cricbuzz LiveStats. All rights reserved.
 """Centralised database connection handling for Cricbuzz LiveStats."""
 import math
 import os

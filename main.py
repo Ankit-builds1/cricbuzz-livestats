@@ -1,3 +1,4 @@
+# © 2026 Ankit Dash (github.com/Ankit-builds1) - Cricbuzz LiveStats. All rights reserved.
 """Cricbuzz LiveStats - app entry point and navigation.
 
 Run with:  streamlit run main.py

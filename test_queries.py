@@ -1,3 +1,4 @@
+# © 2026 Ankit Dash (github.com/Ankit-builds1) - Cricbuzz LiveStats. All rights reserved.
 """Run all 25 analytics queries and report row counts."""
 from sql.queries import QUERIES
 from utils.db_connection import run_query

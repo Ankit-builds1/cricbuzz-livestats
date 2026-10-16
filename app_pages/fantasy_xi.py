@@ -1,3 +1,4 @@
+# © 2026 Ankit Dash (github.com/Ankit-builds1) - Cricbuzz LiveStats. All rights reserved.
 """Fantasy XI Builder: optimal fantasy team for any match-up."""
 from concurrent.futures import ThreadPoolExecutor
 
