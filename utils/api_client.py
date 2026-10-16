@@ -44,8 +44,8 @@ def fetch(endpoint, max_age=300, retries=3):
     global _QUOTA_PAUSED_UNTIL
     if cache_file.exists() and time.time() - cache_file.stat().st_mtime < max_age:
         return _read_cache(cache_file)
-    if quota_paused():
-        return _read_cache(cache_file)  # don't hit the API again until the pause ends
+    if quota_paused() or not HEADERS["x-rapidapi-key"]:
+        return _read_cache(cache_file)  # paused, or no API key configured: serve cache
 
     for attempt in range(1, retries + 1):
         try:
@@ -59,8 +59,8 @@ def fetch(endpoint, max_age=300, retries=3):
                 _QUOTA_PAUSED_UNTIL = time.time() + PAUSE_SECONDS
                 print("Cricbuzz API quota reached (429) - serving cached data for the next 30 min")
                 break
-            print(f"API error {resp.status_code} for {endpoint}")
-            return None
+            print(f"API error {resp.status_code} for {endpoint} - serving cached data")
+            break
         except requests.RequestException as e:
             print(f"Attempt {attempt} failed for {endpoint}: {e}")
             time.sleep(2 * attempt)
